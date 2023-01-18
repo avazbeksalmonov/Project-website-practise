@@ -693,10 +693,10 @@ footer {
 .scrolTop {
     display: none;
     position: fixed;
-    right: 50px;
-    bottom: 50px;
-    width: 50px;
-    height: 50px;
+    right: 20px;
+    bottom: 40px;
+    width: 40px;
+    height: 40px;
     /* background: rgba(241, 241, 241, 1); */
     border-radius: 50%;
     cursor: pointer;
@@ -704,7 +704,7 @@ footer {
 }
 
 .scrolTop img {
-    width: 40px;
+    width: 30px;
 }
 
 
